@@ -57,7 +57,8 @@ No redesign is required. Only recalibration.
 
 Hosted - https://bikersam.github.io/phi-field_correction/
 ## License
-All rights reserved.  
-© 2025 Samuel Edward Howells  
-This work is published for transparency and verification purposes only.  
-No reproduction, modification, or redistribution is permitted without explicit written consent from the author.
+© 2025 Samuel Edward Howells. All rights reserved.
+
+This work is published openly for scientific transparency, verification, and educational purposes.
+
+Commercial use, modification, or redistribution — including integration into institutional models — requires explicit written consent from the author.
