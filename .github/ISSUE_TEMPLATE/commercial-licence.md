@@ -1,10 +1,13 @@
 ---
-title: Commercial Licence Request
-auto_assign: false
+name: Commercial Licence Request
+description: Submit a request to obtain a commercial licence for use of the `phi-field_correction` framework.
+title: "[Licence] Company Request – "
 labels: [licence, commercial, inquiry]
+assignees:
+  - Bikersam
 ---
 
-## 📄 Company / Organization Details
+## Company / Organization Details
 
 - **Company Name:**
 - **Website (if applicable):**
