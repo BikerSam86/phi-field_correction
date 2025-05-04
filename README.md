@@ -1,7 +1,7 @@
 # Phi Field Correction
 Error-Corrected Orbital &amp; Atomic Equations 
 
-Quantum calculations not needing error correction using field theory. 
+Quantum calculations without the need for error correction — thanks to field theory.
 
 Formal Scientific Claim: phi-Field Error Correction Framework 
 
