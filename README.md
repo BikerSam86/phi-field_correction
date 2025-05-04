@@ -53,4 +53,6 @@ Quantum systems (including orbital models, sensors, and reactors) modeled using 
 * Exhibit higher coherence
 * Yield greater computational and energetic efficiency
 
+* https://bikersam.github.io/phi-field_correction/
+
 No redesign is required. Only recalibration.
