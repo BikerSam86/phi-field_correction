@@ -1,9 +1,3 @@
----
-layout: default
-title: Corrected Quantum Equations
----
-
-# Phi Field Correction
 Error-Corrected Orbital &amp; Atomic Equations System Advanced quantum calculations with error correction using field theory.
 Formal Scientific Claim: phi-Field Error Correction Framework
 
