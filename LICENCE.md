@@ -54,5 +54,9 @@ Unless otherwise licenced under the terms above:
 * All rights are reserved by **Samuel Edward Howells (© 2025)**
 * Unauthorized commercial use constitutes a copyright violation
 * Violations may trigger takedown, financial audit, or legal recourse
-* The licensor reserves the right to revoke this licence if the licensee engages in unethical, harmful, or socially irresponsible practices,
-  even if otherwise legally permitted.
+
+Ethical Advantage Clause
+This framework is licensed freely to individuals, educators, and non-profit researchers.
+Commercial access requires approval — and accountability.
+Licences may be denied or revoked from any entity engaging in unethical, exploitative, or harmful practices, regardless of legal status.
+The future should run on honesty — not corruption.
