@@ -1,11 +1,11 @@
 ---
 name: Commercial Licence Request
-description: Submit a request to obtain a commercial licence for use of the `phi-field_correction` framework.
+about: Submit a request to obtain a commercial licence for use of the `phi-field_correction` framework.
 title: "[Licence] Company Request – "
 labels: [licence, commercial, inquiry]
-assignees:
-  - Bikersam
+assignees: [Bikersam]
 ---
+
 
 ## Company / Organization Details
 
