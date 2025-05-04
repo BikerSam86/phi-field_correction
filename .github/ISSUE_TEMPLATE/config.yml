@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: ⚖️ Commercial Licence Request
+    description: Request a commercial-use licence for the phi-field_correction framework.
+    title: "[Licence Request] "
+    labels: [licence, commercial, inquiry]
+    assignees:
+      - Bikersam
+    file: commercial-licence.md
