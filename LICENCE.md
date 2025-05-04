@@ -35,7 +35,7 @@ If you are a **company, commercial entity, or using this for profit**, including
 
 You must obtain a **separate commercial licence**.
 
-**Contact**: [samuel\_howells@hotmail.com](mailto:samuel_howells@hotmail.com)
+**Contact**: [samuel_howells@hotmail.com](mailto:samuel_howells@hotmail.com)
 
 This commercial licence grants:
 
@@ -54,3 +54,5 @@ Unless otherwise licenced under the terms above:
 * All rights are reserved by **Samuel Edward Howells (© 2025)**
 * Unauthorized commercial use constitutes a copyright violation
 * Violations may trigger takedown, financial audit, or legal recourse
+* The licensor reserves the right to revoke this licence if the licensee engages in unethical, harmful, or socially irresponsible practices,
+  even if otherwise legally permitted.
