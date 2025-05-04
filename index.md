@@ -59,3 +59,12 @@ Quantum systems (including orbital models, sensors, and reactors) modeled using 
 * Yield greater computational and energetic efficiency
 
 No redesign is required. Only recalibration.
+
+
+Hosted - https://bikersam.github.io/phi-field_correction/
+## License
+© 2025 Samuel Edward Howells. All rights reserved.
+
+This work is published openly for scientific transparency, verification, and educational purposes.
+
+Commercial use, modification, or redistribution — including integration into institutional models — requires explicit written consent from the author.
