@@ -89,7 +89,7 @@ Quantum systems modeled with these corrected phase equations will:
 
 ### 🌐 Hosted Repo  
 **Live Documentation & Examples:**  
-[https://bikersam.github.io/phi-field_correction/](https://bikersam.github.io/phi-field_correction/)
+[https://www.github.com/bikersam/phi-field_correction/](https://www.github.com/bikersam/phi-field_correction/)
 
 ---
 
