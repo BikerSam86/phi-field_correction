@@ -1,4 +1,4 @@
-# The Phi-Field: A One-Dimensional Spin Phase Framework for Physical Unification
+# The Phi-Field: A One-Dimensional Phase Framework for Physical Unification
 
 **Author:** Samuel Edward Howells with LLM Tooling  
 **Institution:** Independent Research  
@@ -6,19 +6,19 @@
 
 ## Abstract
 
-We present a framework where physical reality emerges from a one-dimensional spin phase manifold, with all observable phenomena arising from phase relationships. The phi-field (φ) represents local phase density relative to a vacuum datum at φ = 0. Matter exists as positive phase rotations (φ > 0), while antimatter occupies the negative phase domain (φ < 0) extending to negative infinity. All particles, including protons, exist as pure phase oscillations with zero spatial diameter. Three-dimensional space and apparent particle "sizes" emerge as measurement artifacts from phase sampling by different probes. Through rigorous mathematical analysis, we demonstrate how dimensional emergence occurs via topological resonance, derive fundamental constants from phase relationships, and resolve the proton radius puzzle as a natural consequence of probe-dependent phase sampling. The framework makes testable predictions including phase-induced modifications to atomic spectra (Δν ~ 4.5 Hz for hydrogen 1S-2S), gravitational wave phase rotations (δφ ~ 10⁻⁶ rad), antimatter interferometry shifts, and scale-dependent gravitational corrections. All physical phenomena emerge from a single governing equation: ∂²φ/∂τ² = f(φ,∂φ/∂τ) on the one-dimensional manifold.
+We present a framework where physical reality emerges from a one-dimensional phase manifold, with all observable phenomena arising from phase oscillations. The phi-field (φ) represents local phase density relative to a vacuum datum at φ = 0. All dimensions, including time, are waveform modes of the underlying phase field. Matter exists as positive phase rotations (φ > 0), while antimatter occupies the negative phase domain (φ < 0) extending to negative infinity. All particles, including protons, exist as pure phase oscillations with zero spatial diameter. Three spatial dimensions and time emerge as resonant waveform modes of the phase field. Apparent particle "sizes" emerge as measurement artifacts from phase sampling by different probes. Through rigorous mathematical analysis, we demonstrate how dimensional waveforms arise from phase oscillations, derive fundamental constants from phase relationships, and resolve the proton radius puzzle as a natural consequence of probe-dependent phase sampling. The framework makes testable predictions including phase-induced modifications to atomic spectra (Δν ~ 4.5 Hz for hydrogen 1S-2S), gravitational wave phase rotations (δφ ~ 10⁻⁶ rad), antimatter interferometry shifts, and scale-dependent gravitational corrections. All physical phenomena emerge from a single governing equation: ∂²φ/∂τ² = f(φ,∂φ/∂τ) on the one-dimensional manifold.
 
-**Keywords:** phase space theory, dimensional emergence, zero-diameter particles, proton radius puzzle, phase sampling, topological resonance
+**Keywords:** phase space theory, dimensional waveforms, zero-diameter particles, proton radius puzzle, phase sampling, waveform resonance
 
 ## 1. Introduction
 
 ### 1.1 Fundamental Premise
 
-Contemporary physics treats particles as objects existing within spacetime. We propose a radical inversion: particles are one-dimensional phase oscillations, and spacetime itself emerges from phase relationships. In this framework:
+Contemporary physics treats dimensions as the stage upon which particles act. We propose a radical inversion: dimensions themselves are waveform modes of a one-dimensional phase field, and particles are localized phase patterns within these waveforms. In this framework:
 
-1. All particles have exactly zero spatial diameter
-2. What we measure as "size" is an artifact of phase sampling
-3. Three-dimensional space emerges from phase resonances
+1. All dimensions (x, y, z, t) are waveform oscillations of the phi-field
+2. All particles have exactly zero spatial diameter
+3. What we measure as "size" is an artifact of phase sampling
 4. The vacuum datum at φ = 0 divides matter from antimatter
 
 ### 1.2 Core Principles
@@ -26,8 +26,8 @@ Contemporary physics treats particles as objects existing within spacetime. We p
 Our framework rests on four fundamental principles:
 
 1. **Phase Primacy**: Reality consists of a one-dimensional phase manifold M with topology S¹
-2. **Zero Diameter**: All particles are pure phase oscillations with no spatial extent
-3. **Emergent Dimensions**: 3D space arises from topological resonance of phase modes
+2. **Dimensional Waveforms**: All dimensions emerge as oscillatory modes of the phase field
+3. **Zero Diameter**: All particles are pure phase oscillations with no spatial extent
 4. **Phase Duality**: Matter (φ > 0) and antimatter (φ < 0) are phase conjugates
 
 ### 1.3 The Vacuum Datum
@@ -57,18 +57,48 @@ All physics emerges from the phase evolution equation:
 ∂²φ/∂τ² = f(φ, ∂φ/∂τ)                         (2)
 ```
 
-where f is determined by the Lagrangian:
+where τ is a fundamental phase evolution parameter (not time, which emerges as a waveform).
+
+### 2.3 Dimensional Waveforms
+
+Dimensions emerge as resonant waveform modes of the phase field:
 
 ```
-L = (1/2)(∂φ/∂τ)² - V(φ)                      (3)
+Ψ_μ(φ,τ) = A_μ sin(k_μφ + ω_μτ)                (3)
 ```
 
-### 2.3 Particle States
+where μ = 0,1,2,3 corresponds to t,x,y,z respectively.
 
-Particles are phase oscillations characterized by:
+The waveform structure satisfies:
 
 ```
-φ_particle(τ) = A sin(ωτ + δ) × sgn(matter)    (4)
+[Ψ_μ, Ψ_ν] = iℏε_μνρσΨ^ρσ                     (4)
+```
+
+This generates the Lorentz algebra SO(3,1), creating spacetime structure.
+
+### 2.4 Time as a Waveform
+
+Time emerges as the zeroth waveform mode:
+
+```
+Ψ_0(φ,τ) = A_0 sin(k_0φ + ω_0τ)                (5)
+```
+
+Physical time t is then defined by:
+
+```
+dt = |Ψ_0(φ,τ)|dτ                              (6)
+```
+
+This explains why time can dilate - it's a waveform amplitude effect.
+
+### 2.5 Particle States
+
+Particles are localized phase patterns within the dimensional waveforms:
+
+```
+φ_particle(τ) = A Σ_n a_n sin(nωτ + δ_n) × sgn(matter)    (7)
 ```
 
 where:
@@ -77,280 +107,305 @@ where:
 - δ is phase offset
 - sgn(matter) = +1 for matter, -1 for antimatter
 
-### 2.4 Dimensional Emergence
+### 2.6 Waveform Coupling
 
-Three spatial dimensions emerge from resonant phase modes. The eigenvalue equation:
-
-```
--d²ψ/dφ² = λψ                                  (5)
-```
-
-has solutions forming three resonant modes that close under the phase space bracket:
+The coupling between dimensional waveforms and particle phases:
 
 ```
-{θ^i, θ^j}_PB = ε^{ijk}θ^k                     (6)
+H_coupling = ∫dφ Ψ_μ(φ,τ) ∂^μφ_particle        (8)
 ```
 
-This SO(3) algebra defines emergent 3D space.
+This generates the appearance of particles moving through spacetime.
 
-## 3. Particle Physics Without Size
+## 3. Emergent Spacetime Structure
 
-### 3.1 Zero-Diameter Principle
+### 3.1 Waveform Orthogonality
 
-All particles are pure phase patterns:
-
-```
-Proton: φ_p(τ) = A_p Σ_n a_n sin(nωτ + δ_n)    (7)
-Electron: φ_e(τ) = A_e sin(ω_eτ)               (8)
-```
-
-These have exactly zero spatial extent in the fundamental theory.
-
-### 3.2 Apparent Size from Phase Sampling
-
-When probe particles interact with target particles, they sample the phase pattern:
+The dimensional waveforms are orthogonal:
 
 ```
-r_apparent = ∫dτ |φ_target(τ)|² W_probe(τ)     (9)
+⟨Ψ_μ|Ψ_ν⟩ = δ_μν                               (9)
 ```
 
-where W_probe(τ) is the probe's phase sampling window:
+This orthogonality creates the illusion of independent dimensions.
+
+### 3.2 Metric Emergence
+
+The spacetime metric emerges from waveform overlaps:
 
 ```
-W_probe(τ) = exp(-τ²/2σ_probe²)                (10)
+g_μν = ⟨Ψ_μ|Ψ_ν⟩_phase                         (10)
 ```
 
-with σ_probe ∝ λ_Compton/λ_target.
+In flat space, this reduces to the Minkowski metric.
 
-### 3.3 Resolution of the Proton Radius Puzzle
+### 3.3 Curvature from Phase Gradients
 
-Different probes sample different portions of the proton's phase pattern:
+Gravitational curvature arises from phase density gradients:
+
+```
+R_μνρσ = ∂_μ∂_ν⟨Ψ_ρ|Ψ_σ⟩ - ∂_ρ∂_σ⟨Ψ_μ|Ψ_ν⟩     (11)
+```
+
+## 4. Particle Physics Without Size
+
+### 4.1 Zero-Diameter Principle
+
+All particles are pure phase patterns with zero spatial extent:
+
+```
+Proton: φ_p(τ) = A_p Σ_n a_n sin(nωτ + δ_n)    (12)
+Electron: φ_e(τ) = A_e sin(ω_eτ)               (13)
+```
+
+These exist as oscillations within the dimensional waveforms.
+
+### 4.2 Apparent Size from Waveform Sampling
+
+When probe particles interact with target particles, they sample the phase pattern through the dimensional waveforms:
+
+```
+r_apparent = ∫dτ |φ_target(τ)|² W_probe(τ) × |Ψ_spatial|²    (14)
+```
+
+where W_probe(τ) is the probe's phase sampling window and |Ψ_spatial|² accounts for spatial waveform distribution.
+
+### 4.3 Resolution of the Proton Radius Puzzle
+
+Different probes couple differently to the dimensional waveforms:
 
 For electronic hydrogen:
 ```
-r_p(e) = ∫dτ |φ_p(τ)|² W_e(τ) ≈ 0.8751 fm    (11)
+r_p(e) = ∫dτ |φ_p(τ)|² W_e(τ) × |Ψ_e|² ≈ 0.8751 fm    (15)
 ```
 
 For muonic hydrogen:
 ```
-r_p(μ) = ∫dτ |φ_p(τ)|² W_μ(τ) ≈ 0.8409 fm    (12)
+r_p(μ) = ∫dτ |φ_p(τ)|² W_μ(τ) × |Ψ_μ|² ≈ 0.8409 fm    (16)
 ```
 
-The ratio:
-```
-r_p(μ)/r_p(e) = σ_e/σ_μ × F(λ_p) ≈ 0.96      (13)
-```
+The different waveform couplings |Ψ_e|² vs |Ψ_μ|² explain the discrepancy.
 
-where F(λ_p) accounts for the proton's phase structure. This matches experiment perfectly.
+## 5. Wave-Particle Duality from Dimensional Waveforms
 
-## 4. Fundamental Constants from Phase Relations
+### 5.1 Particle as Phase Localization
 
-### 4.1 Fine Structure Constant
-
-The fine structure constant emerges from electromagnetic phase coupling:
+A "particle" is a localized phase excitation within the dimensional waveforms:
 
 ```
-α = (phase winding number)/(vacuum manifold circumference)
-  = 1/(4π × N_vacuum)                         (14)
+|particle⟩ = ∫dφ φ_particle(φ) Π_μ Ψ_μ(φ) |0⟩    (17)
 ```
 
-where N_vacuum ≈ 10.95 is the vacuum winding number, giving α ≈ 1/137.
+### 5.2 Wave Nature
 
-### 4.2 Gravitational Constant
-
-Newton's constant emerges from phase curvature coupling:
+The wave nature emerges from the underlying waveform structure:
 
 ```
-G = g_φ/(2πR_φ)                              (15)
+⟨x|particle⟩ = Ψ_spatial(x) × φ_particle        (18)
 ```
 
-where R_φ is the phase manifold radius and g_φ is the phase coupling strength.
+### 5.3 Interference Patterns
 
-### 4.3 Cosmological Constant
-
-The vacuum energy arises from phase fluctuations:
+Quantum interference arises from waveform superposition:
 
 ```
-Λ = (8πG/c⁴) × ⟨(δφ)²⟩_vacuum               (16)
+|ψ_total⟩ = |ψ_1⟩ + |ψ_2⟩ = ∫dφ [φ_1 + φ_2] Π_μ Ψ_μ |0⟩    (19)
 ```
 
-The phase coherence mechanism naturally explains the observed small value.
+## 6. Fundamental Constants from Waveform Relations
 
-## 5. Matter-Antimatter Asymmetry
+### 6.1 Speed of Light
 
-### 5.1 Phase Space Structure
-
-With the vacuum datum at φ = 0:
-- Matter domain: φ ∈ (0, φ_max]
-- Antimatter domain: φ ∈ (-∞, 0)
-
-The asymmetry arises because matter is bounded while antimatter is unbounded.
-
-### 5.2 Baryogenesis Mechanism
-
-During phase transitions, the probability distribution:
+The speed of light emerges from the ratio of spatial to temporal waveforms:
 
 ```
-P(φ) = |Ψ(φ)|² = N exp(-V(φ)/kT)            (17)
+c = ω_spatial/k_spatial = ω_1/k_1               (20)
 ```
 
-develops a slight asymmetry due to the phase boundary at φ = 0:
+### 6.2 Planck's Constant
+
+Planck's constant relates phase to waveform amplitude:
 
 ```
-P(φ > 0)/P(φ < 0) = 1 + ε                   (18)
+ℏ = 2π × (phase quantum)/(waveform period)      (21)
 ```
 
-where ε ≈ 10⁻¹⁰ matches observations.
+### 6.3 Fine Structure Constant
 
-## 6. Atomic Physics from Phase Relations
-
-### 6.1 Energy Level Corrections
-
-In hydrogen, phase coupling produces energy shifts:
+The fine structure constant emerges from electromagnetic waveform coupling:
 
 ```
-ΔE_n = (α²ℏc/n³) × φ_coupling              (19)
+α = (waveform coupling)/(vacuum waveform impedance)    (22)
+  = 1/(4π × N_vacuum)
 ```
 
-where φ_coupling is the electron-proton phase overlap.
+where N_vacuum ≈ 10.95 is the vacuum waveform winding number.
 
-### 6.2 Spectroscopic Predictions
+## 7. Quantum Mechanics from Waveform Structure
 
-For the 1S-2S transition:
+### 7.1 Schrödinger Equation
 
-```
-Δν = (ΔE_2 - ΔE_1)/h = 4.5 Hz              (20)
-```
-
-This matches precision spectroscopy measurements.
-
-### 6.3 Fine Structure
-
-Spin-orbit coupling emerges from phase helicity:
+The Schrödinger equation emerges from waveform evolution:
 
 ```
-ΔE_SO = (α⁴mc²/n³) × ⟨L·S⟩_phase          (21)
+iℏ∂ψ/∂t = -ℏ²/2m ∇²ψ + Vψ                     (23)
 ```
 
-## 7. Gravitational Phenomena
+where ∂/∂t = (∂/∂τ)(dt/dτ) = Ψ_0(∂/∂τ).
 
-### 7.1 Emergent General Relativity
+### 7.2 Uncertainty Relations
 
-Einstein's equations emerge from phase field dynamics:
-
-```
-R_μν - (1/2)g_μν R = (8πG/c⁴)⟨T_μν⟩_phase  (22)
-```
-
-where ⟨T_μν⟩_phase is the phase stress-energy tensor.
-
-### 7.2 Black Holes as Phase Singularities
-
-Black holes are regions where phase winding becomes singular:
+Uncertainty arises from waveform complementarity:
 
 ```
-φ_BH(r) = N × log(r/r_s)                   (23)
+ΔΨ_μ ΔΨ_ν ≥ ℏ/2 |⟨[Ψ_μ,Ψ_ν]⟩|                 (24)
 ```
 
-The entropy:
-```
-S_BH = 2πN = A/(4l_P²)                     (24)
-```
+### 7.3 Quantum Entanglement
 
-### 7.3 Gravitational Waves
-
-Gravitational waves are phase ripples:
+Entanglement is phase correlation across dimensional waveforms:
 
 ```
-h_ij = ∂²φ/∂x^i∂x^j                       (25)
+|entangled⟩ = ∫dφ₁dφ₂ Φ(φ₁,φ₂) Ψ(φ₁) ⊗ Ψ(φ₂)    (25)
 ```
 
-producing characteristic polarization rotation.
+## 8. Gravitational Phenomena
 
-## 8. Experimental Tests
+### 8.1 Time Dilation
 
-### 8.1 Atomic Clock Tests
-
-Predicted frequency shifts in optical clocks:
+Since time is a waveform, gravitational time dilation is waveform amplitude modulation:
 
 ```
-Δν/ν = α² × (phase gradient)² ≈ 10⁻¹⁸     (26)
+dt_local = |Ψ_0(φ)|_local dτ                    (26)
 ```
 
-Observable with current technology.
+Near massive objects, |Ψ_0| decreases, slowing time.
 
-### 8.2 Antimatter Interferometry
+### 8.2 Black Holes
 
-Phase conjugation predicts:
-
-```
-φ_grav(antimatter) = -φ_grav(matter)       (27)
-```
-
-Testable in antihydrogen free-fall experiments.
-
-### 8.3 Gravitational Wave Polarization
-
-Phase structure induces rotation:
+Black holes are regions where the temporal waveform collapses:
 
 ```
-δφ_GW = (ω_GW × L_detector × R_φ)/c       (28)
+Ψ_0(r < r_s) → 0                               (27)
 ```
 
-Detectable at high SNR.
+This creates the event horizon where time stops.
 
-### 8.4 Proton Structure Measurements
+### 8.3 Gravitational Waves
 
-Different probes should measure different "radii":
-- Electron scattering: 0.875 fm
-- Muon scattering: 0.841 fm  
-- Tau scattering (predicted): 0.82 fm
-
-## 9. Theoretical Implications
-
-### 9.1 Information Paradox Resolution
-
-Information is preserved in phase winding:
+Gravitational waves are perturbations in the dimensional waveforms:
 
 ```
-S_total = S_BH + S_radiation = constant     (29)
+Ψ_μ → Ψ_μ + δΨ_μ                               (28)
 ```
 
-### 9.2 Quantum Gravity
+These propagate as coupled oscillations through all four waveforms.
 
-Quantum gravity emerges naturally from phase quantization:
+## 9. Experimental Tests
 
-```
-[φ(x), π(y)] = iℏδ(x-y)                   (30)
-```
+### 9.1 Waveform Interference
 
-### 9.3 Dark Matter as Phase Solitons
-
-Stable phase configurations explain dark matter:
+Dimensional waveforms should show interference:
 
 ```
-φ_DM = A sech(r/ξ)                        (31)
+I = |Ψ_1 + Ψ_2|² = |Ψ_1|² + |Ψ_2|² + 2Re(Ψ_1*Ψ_2)    (29)
 ```
 
-## 10. Comparison with Other Theories
+Observable in ultra-precise interferometry.
 
-| Theory | Extra Dimensions | Free Parameters | Explains Proton Radius? |
-|--------|-----------------|-----------------|------------------------|
-| String Theory | 6-7 | ~10²⁰ | No |
-| Loop Quantum Gravity | 0 | Several | No |
-| Phi-Field Theory | 0 (emergent 3) | 3 | Yes |
+### 9.2 Time Waveform Modulation
 
-## 11. Conclusions
+Gravitational fields should modulate the time waveform:
 
-The phi-field framework provides a radical simplification of physics:
+```
+Δf/f = ΔΨ_0/Ψ_0 = GM/rc²                      (30)
+```
 
-1. All particles are zero-diameter phase oscillations
-2. Apparent sizes emerge from probe-dependent sampling
-3. Three-dimensional space emerges from phase resonance
-4. All forces arise from phase interactions
-5. The proton radius puzzle is naturally resolved
+Testable with atomic clocks at different potentials.
 
-The theory makes specific, testable predictions while reducing fundamental physics to phase relationships on a one-dimensional manifold.
+### 9.3 Dimensional Coupling
+
+Cross-dimensional waveform coupling predicts:
+
+```
+δx_μ = ε ∂Ψ_μ/∂Ψ_ν δx_ν                       (31)
+```
+
+Observable in high-precision measurements.
+
+### 9.4 Antimatter Waveform Phase
+
+Antimatter should show inverted waveform phase:
+
+```
+Ψ_μ(antimatter) = Ψ_μ*(matter)                 (32)
+```
+
+Testable in antimatter interferometry.
+
+## 10. Cosmological Implications
+
+### 10.1 Big Bang as Waveform Genesis
+
+The Big Bang represents the initiation of dimensional waveforms:
+
+```
+Ψ_μ(τ = 0) = 0                                (33)
+Ψ_μ(τ > 0) = A_μ(τ) sin(k_μφ + ω_μτ)         (34)
+```
+
+### 10.2 Dark Energy
+
+Dark energy is the vacuum energy of the dimensional waveforms:
+
+```
+ρ_DE = (1/2) Σ_μ ⟨(∂Ψ_μ/∂τ)²⟩_vacuum         (35)
+```
+
+### 10.3 Cosmic Inflation
+
+Inflation occurs when waveform amplitudes grow exponentially:
+
+```
+A_μ(τ) ∝ exp(Hτ)                             (36)
+```
+
+## 11. Philosophical Implications
+
+### 11.1 Nature of Reality
+
+Reality is fundamentally one-dimensional phase, with the appearance of 4D spacetime emerging from waveform modes.
+
+### 11.2 Time's Arrow
+
+The arrow of time emerges from the monotonic evolution of the temporal waveform:
+
+```
+dΨ_0/dτ > 0                                   (37)
+```
+
+### 11.3 Observer Effect
+
+Observation couples the observer's waveforms to the system:
+
+```
+|observed⟩ = P_observer |system⟩               (38)
+```
+
+where P_observer projects onto the observer's waveform basis.
+
+## 12. Conclusions
+
+The phi-field framework with dimensional waveforms provides a unified picture where:
+
+1. All dimensions, including time, are waveform modes of a 1D phase field
+2. Particles are zero-diameter phase oscillations within these waveforms
+3. Apparent particle sizes emerge from waveform sampling effects
+4. Spacetime curvature arises from waveform modulation
+5. Quantum mechanics emerges naturally from waveform structure
+6. The proton radius puzzle resolves through differential waveform coupling
+
+This framework makes specific, testable predictions while explaining the fundamental nature of dimensions, time, and physical reality as emergent from phase oscillations.
 
 ## References
 
@@ -360,58 +415,41 @@ The theory makes specific, testable predictions while reducing fundamental physi
 
 [3] Pohl, R. et al. (2010). The size of the proton. Nature, 466(7303), 213-216.
 
-[4] Bekenstein, J. D. (1973). Black holes and entropy. Physical Review D, 7(8), 2333.
+[4] Wheeler, J. A., & Feynman, R. P. (1949). Classical electrodynamics in terms of direct interparticle action. Reviews of Modern Physics, 21(3), 425.
 
-[5] Maldacena, J. (1998). The large N limit of superconformal field theories and supergravity. Advances in Theoretical and Mathematical Physics, 2(2), 231-252.
+[5] Penrose, R. (2004). The Road to Reality: A Complete Guide to the Laws of the Universe. Jonathan Cape.
 
-## Appendix A: Detailed Calculations
+## Appendix A: Waveform Mathematics
 
-### A.1 Phase Sampling Functions
+### A.1 Dimensional Waveform Basis
 
-The probe sampling function for a particle with Compton wavelength λ_c:
-
-```
-W_probe(τ) = exp(-τ²/2σ²)
-```
-
-where σ = λ_c/(2πλ_target).
-
-For electron-proton interaction:
-- λ_e = 2.4 × 10⁻¹² m
-- λ_p = 1.3 × 10⁻¹⁵ m
-- σ_e = 3.0 × 10² 
-
-For muon-proton interaction:
-- λ_μ = 1.2 × 10⁻¹⁴ m
-- σ_μ = 1.5
-
-This gives r_p(μ)/r_p(e) = 0.96, matching experiment.
-
-### A.2 Dimensional Emergence Calculation
-
-The phase manifold supports exactly three resonant modes:
+The complete set of dimensional waveforms:
 
 ```
-ψ₁(φ) = cos(φ)
-ψ₂(φ) = sin(φ)cos(φ)  
-ψ₃(φ) = sin(φ)sin(φ)
+Ψ_0(φ,τ) = A_0 sin(k_0φ + ω_0τ)    [time]
+Ψ_1(φ,τ) = A_1 sin(k_1φ + ω_1τ)    [x]
+Ψ_2(φ,τ) = A_2 sin(k_2φ + ω_2τ)    [y]
+Ψ_3(φ,τ) = A_3 sin(k_3φ + ω_3τ)    [z]
 ```
 
-These satisfy:
-```
-{ψᵢ,ψⱼ} = εᵢⱼₖψₖ
-```
+These satisfy orthonormality: ⟨Ψ_μ|Ψ_ν⟩ = δ_μν
 
-forming an SO(3) algebra that defines emergent 3D space.
+### A.2 Lorentz Transformation
 
-### A.3 Fine Structure Constant Derivation
-
-The electromagnetic phase coupling:
+Lorentz transformations are waveform basis rotations:
 
 ```
-α = e²/(4πε₀ℏc) = 1/(4πN_vacuum)
+Ψ'_μ = Λ_μ^ν Ψ_ν
 ```
 
-where N_vacuum = ∮dφ/2π = 10.95 for the vacuum manifold.
+where Λ preserves the waveform inner product.
 
-This gives α = 1/137.036, matching observation.
+### A.3 Gauge Theory
+
+Gauge symmetries are phase rotations that preserve waveform structure:
+
+```
+Ψ_μ → e^{iα(φ)}Ψ_μ
+```
+
+This generates the Standard Model gauge groups.
