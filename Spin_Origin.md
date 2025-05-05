@@ -38,7 +38,7 @@ The sign of $\Delta E(\phi)$ determines the direction of energy flow relative to
 
 We propose that the direction of energy flow induces a chirality in the phase patterns, which manifests as spin when projected into the dimensional waveforms. This chirality can be mathematically represented by introducing a twist operator $\mathcal{T}$ that acts on phase functions:
 
-$$\mathcal{T}[\Psi](\phi) = \text{sgn}(\Delta E(\phi)) \cdot i \frac{d\Psi}{d\phi}$$
+$$\mathcal{T}(\phi) = \text{sgn}(\Delta E(\phi)) \cdot i \frac{d\Psi}{d\phi}$$
 
 Where $\text{sgn}$ is the signum function giving the sign of $\Delta E$.
 
@@ -61,8 +61,8 @@ $$S_- = \frac{1}{2}(1 - i\mathcal{T})$$
 
 These operators project the twisted phase patterns into spin-up and spin-down states in the emergent dimensions. The action of these operators on a phase function gives:
 
-$$S_+[\Psi](\phi) = \frac{1}{2}\left(\Psi(\phi) + i \cdot \text{sgn}(\Delta E(\phi)) \cdot \frac{d\Psi}{d\phi}\right)$$
-$$S_-[\Psi](\phi) = \frac{1}{2}\left(\Psi(\phi) - i \cdot \text{sgn}(\Delta E(\phi)) \cdot \frac{d\Psi}{d\phi}\right)$$
+$$S_+(\phi) = \frac{1}{2}\left(\Psi(\phi) + i \cdot \text{sgn}(\Delta E(\phi)) \cdot \frac{d\Psi}{d\phi}\right)$$
+$$S_-(\phi) = \frac{1}{2}\left(\Psi(\phi) - i \cdot \text{sgn}(\Delta E(\phi)) \cdot \frac{d\Psi}{d\phi}\right)$$
 
 This formalism naturally reproduces the algebraic properties of spin-1/2 systems when projected into the emergent dimensions.
 
