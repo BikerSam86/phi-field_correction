@@ -1,6 +1,7 @@
 # The Phi-Field: A One-Dimensional Spin Phase Framework for Physical Unification
 
-**Author:** Samuel Edward Howells
+**Author:** Samuel Edward Howells with LLM Tooling
+
 **Date:** May 4, 2025  
 
 ## Abstract
