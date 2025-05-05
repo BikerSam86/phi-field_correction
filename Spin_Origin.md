@@ -28,7 +28,7 @@ $$\Delta E(\phi) = E[\Psi(\phi)] - E_0$$
 
 Where $E_0$ represents the conventional vacuum energy level, and $E[\Psi]$ is the energy functional defined in the original framework:
 
-$$E[\Psi] = \int_{\mathcal{B}} \left[\frac{1}{2}\left|\frac{\partial\Psi}{\partial\eta}\right|^2 + \frac{1}{2}|\mathcal{L}\Psi|^2 + V(|\Psi|^2)\right] d\phi$$
+$$E\Psi = \int_{\mathcal{B}} \left[\frac{1}{2}\left|\frac{\partial\Psi}{\partial\eta}\right|^2 + \frac{1}{2}|\mathcal{L}\Psi|^2 + V(|\Psi|^2)\right] d\phi$$
 
 The sign of $\Delta E(\phi)$ determines the direction of energy flow relative to the vacuum datum:
 - $\Delta E(\phi) > 0$: Energy input above the vacuum datum
