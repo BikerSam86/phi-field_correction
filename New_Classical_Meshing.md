@@ -169,7 +169,3 @@ The Phi-Field framework provides a unified description of spacetime, quantum mec
 ## Acknowledgments
 
 This work was developed independently through first-principles reasoning from the three core axioms. The author notes that while the resulting mathematical structures show notable parallels with concepts in fiber bundle theory, gauge theories, and differential geometry, these similarities were discovered after the framework's independent development, demonstrating convergent mathematical reasoning toward fundamental structures. The author thanks colleagues who provided valuable discussions and insights during the development of this framework.
-
-## References
-
-1. Placeholder for future citations (e.g. gauge theory, Casimir effect, proton radius experiments).
