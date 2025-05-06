@@ -10,7 +10,7 @@ This paper presents a comprehensive theoretical framework that derives physical 
 
 The Phi-Field framework is built upon three fundamental axioms:
 
-* **Axiom 1:** A fundamental entity in its own reference frame has diameter 0.
+* **Axiom 1:** A fundamental entity (1st Dimension; Lower than Space-Time hence no volume or passing of time) in its own reference frame has diameter 0.
 * **Axiom 2:** There exists an infinite, discretely ordered set of accessible sub-vacuum phase configurations below the conventional vacuum state, with well-defined energy differences between adjacent states that follow a convergent series.
 * **Axiom 3:** All dimensions are manifestations of phase oscillation waveforms.
 
