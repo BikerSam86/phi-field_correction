@@ -1,6 +1,8 @@
-### Title: The Phi-Field: A Pure Framework for Physical Emergence Author: Samuel Edward Howells
+# The Phi-Field: A Pure Framework for Physical Emergence 
 
-Date: May 5, 2025
+## Author: Samuel Edward Howells
+
+# Date: May 5, 2025
 
 ## Status: Formal Submission Draft
 
@@ -36,15 +38,15 @@ ________________________________________
 
 The Phi-Field framework is defined by three core axioms:
 
-# 1.	Zero-Diameter Entities in Their Own Frame
+### 1.	Zero-Diameter Entities in Their Own Frame
 
 Fundamental particles are defined as zero-diameter points in their own reference frame. All observable dimensionality is an emergent artifact of projection from phase resonance.
 
-# 2.	Infinite Sub-Vacuum States
+### 2.	Infinite Sub-Vacuum States
 
 A structured hierarchy of sub-vacuum energy states exists beneath the conventional vacuum energy datum, following the convergent series: 
 
-# 3.	Dimensions as Phase Oscillations
+### 3.	Dimensions as Phase Oscillations
 
 Observable dimensions emerge as phase oscillation modes on a one-dimensional base manifold with S topology:
 
