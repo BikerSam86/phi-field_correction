@@ -322,7 +322,7 @@ formally submitted for further examination.
 
 ---
 
-### 📈 Demonstrated Improvements (Normalized Units)
+### 📈 Calculated Possible Improvements (Normalized Units)
 
 | Metric                | Standard Model | Phi-Field Corrected | Change     | Relative Improvement |
 |------------------------|----------------|----------------------|------------|-----------------------|
