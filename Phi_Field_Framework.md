@@ -1,10 +1,10 @@
 # The Phi-Field: A Pure Framework for Physical Emergence 
 
-## Author: Samuel Edward Howells
+### Author: Samuel Edward Howells
 
-# Date: May 5, 2025
+### Date: May 5, 2025
 
-## Status: Formal Submission Draft
+### Status: Formal Submission Draft
 
 ________________________________________
 
