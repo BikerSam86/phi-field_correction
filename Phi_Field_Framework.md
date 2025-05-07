@@ -9,11 +9,9 @@ ________________________________________
 Plain-Language Summary
 
 This paper proposes a new way to understand the universe using simple principles based on phase — the timing and alignment of oscillations. Instead of starting with assumptions about space, time, and particles, it begins with just three core ideas: (1) particles have no size in their own view, (2) there's a hidden 
-
 structure beneath empty space, and (3) everything we observe comes from how waves resonate and align on a one-dimensional loop.
 
 From this starting point, the paper shows how space, time, matter, and even forces like gravity and electromagnetism can emerge as patterns of aligned energy. It explains mysteries like why different experiments measure different proton sizes, where dark energy might come from, and how quantum measurements really 
-
 work — all using clear math and testable predictions.
 
 The Phi-Field is designed to be simple, precise, and compatible with both human thinking and artificial intelligence. It invites the scientific community to consider a fresh foundation built not on complexity, but on clarity and alignment.
@@ -21,9 +19,7 @@ The Phi-Field is designed to be simple, precise, and compatible with both human 
 Abstract
 
 This paper introduces the Phi-Field, a unifying theoretical framework in which physical reality emerges from a one-dimensional phase manifold governed by three foundational axioms. Space, time, matter, and force arise as resonant waveform projections across discrete oscillation modes. This model resolves several 
-
 critical anomalies in modern physics, including the proton radius puzzle, the vacuum energy discrepancy, and the nature of quantum measurement. The framework is mathematically parsimonious, experimentally testable, and computationally elegant, favoring resonance, coherence, and foundational correction over additive 
-
 complexity.
 
 ________________________________________
