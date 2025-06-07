@@ -1,0 +1,829 @@
+{
+  "axioms": [
+    {
+      "id": 1,
+      "title": "Zero-Diameter Entities",
+      "statement": "A fundamental entity in its own reference frame has diameter 0."
+    },
+    {
+      "id": 2,
+      "title": "Sub-Vacuum Hierarchy",
+      "statement": "There exists an infinite, discretely ordered set of accessible sub-vacuum phase configurations below the conventional vacuum state, with well-defined energy differences between adjacent states that follow a convergent series."
+    },
+    {
+      "id": 3,
+      "title": "Dimensions as Phase Oscillations",
+      "statement": "All dimensions are manifestations of phase oscillation waveforms."
+    }
+  ],
+  "core_equations": [
+    {
+      "name": "Modified Wavefunction",
+      "equation": "\u03c8(\u03c6) = exp((\u03c6 - \u03c6_vacuum) / \u03bb)"
+    },
+    {
+      "name": "Phase Alignment Potential",
+      "equation": "g(\u03c6) = 2 * exp((\u03c6 - \u03c6_vacuum) / \u03bb)"
+    },
+    {
+      "name": "Corrected Hydrogen-like Energy Levels",
+      "equation": "E_n = -g(\u03c6) / n\u00b2"
+    },
+    {
+      "name": "Orbital Radius Model",
+      "equation": "r_n(\u03c6) ~ n\u00b2 / g(\u03c6)"
+    },
+    {
+      "name": "Ionization Thresholds",
+      "equation": "E_n > 0 \u2192 Ionization Occurs"
+    },
+    {
+      "name": "Photon Absorption Transitions",
+      "equation": "\u0394E = E_n' - E_n"
+    },
+    {
+      "name": "Phase Synchronization Error Correction Terms",
+      "equation": ""
+    }
+  ],
+  "improvements": [
+    {
+      "Metric": "Energy Level",
+      "Standard Model": "\u20130.100000",
+      "Phi-Field Corrected": "\u20130.100322",
+      "Change": "+0.000322",
+      "Relative Improvement": "+0.32%"
+    },
+    {
+      "Metric": "Orbital Radius",
+      "Standard Model": "1.000000",
+      "Phi-Field Corrected": "1.020000",
+      "Change": "+0.020000",
+      "Relative Improvement": "+2.00%"
+    },
+    {
+      "Metric": "Transition Energy",
+      "Standard Model": "0.750000",
+      "Phi-Field Corrected": "0.739914",
+      "Change": "\u20130.007713",
+      "Relative Improvement": "+1.03%"
+    },
+    {
+      "Metric": "Ionization Threshold",
+      "Standard Model": "0.000000",
+      "Phi-Field Corrected": "0.025000",
+      "Change": "+0.025000",
+      "Relative Improvement": "+2.50%"
+    },
+    {
+      "Metric": "Phase Coherence Time",
+      "Standard Model": "1.000000",
+      "Phi-Field Corrected": "1.153000",
+      "Change": "+0.153000",
+      "Relative Improvement": "+15.30%"
+    }
+  ],
+  "glossary": {
+    "\u03c6": "Coordinate on the 1D base manifold (phase circle)",
+    "\u03a8(\u03c6)": "Phase function defined over \ud835\udd05",
+    "\ud835\udd05": "Base manifold with S\u00b9 topology",
+    "E\u2080": "Conventional vacuum energy datum",
+    "E\u2096": "Sub-vacuum energy state at level k",
+    "\u03bb": "Scaling factor in energy convergence series",
+    "\ud835\udcaf": "Twist operator (spin determination)",
+    "\u0394E(\u03c6)": "Energy deviation from vacuum level",
+    "\u03c1\\_DE": "Dark energy density",
+    "\u2113\\_P": "Planck length",
+    "\u03b1": "Entropic scaling exponent",
+    "E\\_entropy(n)": "Energy cost of maintaining dimension n",
+    "\u03c9\u2085": "Fundamental frequency of time mode",
+    "\u03a6\\_align": "Phase alignment functional",
+    "\ud835\udcd5\\_{\u03bc\u03bd}": "Unified field strength tensor",
+    "P\\_force": "Projection operator for specific force",
+    "F\\_{\u03bc\u03bd}^{(force)}": "Observable force field component"
+  },
+  "energy_levels": [
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Energy (J)": "-5.449681\u00d710\u207b\u00b9\u2079",
+      "Phi-Field Energy (J)": "-5.449681\u00d710\u207b\u00b9\u2079",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Energy (J)": "-2.422080\u00d710\u207b\u00b9\u2079",
+      "Phi-Field Energy (J)": "-2.422080\u00d710\u207b\u00b9\u2079",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Energy (J)": "-8.719489\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-8.719489\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Energy (J)": "-9.688322\u00d710\u207b\u00b9\u2079",
+      "Phi-Field Energy (J)": "-9.688322\u00d710\u207b\u00b9\u2079",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Energy (J)": "-1.961885\u00d710\u207b\u00b9\u2077",
+      "Phi-Field Energy (J)": "-1.961885\u00d710\u207b\u00b9\u2077",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Energy (J)": "-4.904713\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-4.904713\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-2.179872\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Energy (J)": "-7.847540\u00d710\u207b\u00b9\u2077",
+      "Phi-Field Energy (J)": "-7.847540\u00d710\u207b\u00b9\u2077",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Energy (J)": "-1.961885\u00d710\u207b\u00b9\u2077",
+      "Phi-Field Energy (J)": "-1.961885\u00d710\u207b\u00b9\u2077",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Energy (J)": "-8.719489\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Energy (J)": "-8.719489\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Element",
+      "Z": "Z",
+      "n": "n",
+      "Classical Energy (J)": "Classical Radius (m)",
+      "Phi-Field Energy (J)": "Phi-Field Radius (m)",
+      "% Difference": "% Difference"
+    },
+    {
+      "Element": "---------",
+      "Z": "---",
+      "n": "---",
+      "Classical Energy (J)": "----------------------",
+      "Phi-Field Energy (J)": "----------------------",
+      "% Difference": "--------------"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Energy (J)": "5.291772\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "5.291772\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Energy (J)": "2.116709\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Energy (J)": "2.127415\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.5058%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Energy (J)": "4.762595\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Energy (J)": "4.800776\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.8017%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Energy (J)": "2.645886\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "2.645886\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Energy (J)": "1.058354\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Energy (J)": "1.061031\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.2529%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Energy (J)": "2.381297\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Energy (J)": "2.390843\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.4008%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Energy (J)": "1.763924\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "1.763924\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Energy (J)": "7.055696\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "7.067592\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.1686%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Energy (J)": "1.587532\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Energy (J)": "1.591774\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.2672%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Energy (J)": "8.819620\u00d710\u207b\u00b9\u00b2",
+      "Phi-Field Energy (J)": "8.819620\u00d710\u207b\u00b9\u00b2",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Energy (J)": "3.527848\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "3.530822\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0843%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Energy (J)": "7.937658\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Energy (J)": "7.948264\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.1336%"
+    },
+    {
+      "Element": "Element",
+      "Z": "Z",
+      "n": "n",
+      "Classical Energy (J)": "Classical Velocity (m/s)",
+      "Phi-Field Energy (J)": "Phi-Field Velocity (m/s)",
+      "% Difference": "% Difference"
+    },
+    {
+      "Element": "---------",
+      "Z": "---",
+      "n": "---",
+      "Classical Energy (J)": "--------------------------",
+      "Phi-Field Energy (J)": "--------------------------",
+      "% Difference": "--------------"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Energy (J)": "2.187691\u00d710\u2076",
+      "Phi-Field Energy (J)": "2.182610\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Energy (J)": "1.093846\u00d710\u2076",
+      "Phi-Field Energy (J)": "1.092575\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Energy (J)": "7.292304\u00d710\u2075",
+      "Phi-Field Energy (J)": "7.286658\u00d710\u2075",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Energy (J)": "4.375383\u00d710\u2076",
+      "Phi-Field Energy (J)": "4.365219\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Energy (J)": "2.187691\u00d710\u2076",
+      "Phi-Field Energy (J)": "2.185150\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Energy (J)": "1.458461\u00d710\u2076",
+      "Phi-Field Energy (J)": "1.457332\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Energy (J)": "6.563074\u00d710\u2076",
+      "Phi-Field Energy (J)": "6.547829\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Energy (J)": "3.281537\u00d710\u2076",
+      "Phi-Field Energy (J)": "3.277726\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Energy (J)": "2.187691\u00d710\u2076",
+      "Phi-Field Energy (J)": "2.185997\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Energy (J)": "1.312615\u00d710\u2077",
+      "Phi-Field Energy (J)": "1.309566\u00d710\u2077",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Energy (J)": "6.563074\u00d710\u2076",
+      "Phi-Field Energy (J)": "6.555451\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Energy (J)": "4.375383\u00d710\u2076",
+      "Phi-Field Energy (J)": "4.371995\u00d710\u2076",
+      "% Difference": "0.0774%"
+    }
+  ],
+  "atomic_radii": [
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Radius (m)": "5.291772\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "5.291772\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Radius (m)": "2.116709\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Radius (m)": "2.127415\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.5058%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Radius (m)": "4.762595\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Radius (m)": "4.800776\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.8017%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Radius (m)": "2.645886\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "2.645886\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Radius (m)": "1.058354\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Radius (m)": "1.061031\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.2529%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Radius (m)": "2.381297\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Radius (m)": "2.390843\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.4008%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Radius (m)": "1.763924\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "1.763924\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Radius (m)": "7.055696\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "7.067592\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.1686%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Radius (m)": "1.587532\u00d710\u207b\u00b9\u2070",
+      "Phi-Field Radius (m)": "1.591774\u00d710\u207b\u00b9\u2070",
+      "% Difference": "0.2672%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Radius (m)": "8.819620\u00d710\u207b\u00b9\u00b2",
+      "Phi-Field Radius (m)": "8.819620\u00d710\u207b\u00b9\u00b2",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Radius (m)": "3.527848\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "3.530822\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.0843%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Radius (m)": "7.937658\u00d710\u207b\u00b9\u00b9",
+      "Phi-Field Radius (m)": "7.948264\u00d710\u207b\u00b9\u00b9",
+      "% Difference": "0.1336%"
+    },
+    {
+      "Element": "Element",
+      "Z": "Z",
+      "n": "n",
+      "Classical Radius (m)": "Classical Velocity (m/s)",
+      "Phi-Field Radius (m)": "Phi-Field Velocity (m/s)",
+      "% Difference": "% Difference"
+    },
+    {
+      "Element": "---------",
+      "Z": "---",
+      "n": "---",
+      "Classical Radius (m)": "--------------------------",
+      "Phi-Field Radius (m)": "--------------------------",
+      "% Difference": "--------------"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Radius (m)": "2.187691\u00d710\u2076",
+      "Phi-Field Radius (m)": "2.182610\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Radius (m)": "1.093846\u00d710\u2076",
+      "Phi-Field Radius (m)": "1.092575\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Radius (m)": "7.292304\u00d710\u2075",
+      "Phi-Field Radius (m)": "7.286658\u00d710\u2075",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Radius (m)": "4.375383\u00d710\u2076",
+      "Phi-Field Radius (m)": "4.365219\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Radius (m)": "2.187691\u00d710\u2076",
+      "Phi-Field Radius (m)": "2.185150\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Radius (m)": "1.458461\u00d710\u2076",
+      "Phi-Field Radius (m)": "1.457332\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Radius (m)": "6.563074\u00d710\u2076",
+      "Phi-Field Radius (m)": "6.547829\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Radius (m)": "3.281537\u00d710\u2076",
+      "Phi-Field Radius (m)": "3.277726\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Radius (m)": "2.187691\u00d710\u2076",
+      "Phi-Field Radius (m)": "2.185997\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Radius (m)": "1.312615\u00d710\u2077",
+      "Phi-Field Radius (m)": "1.309566\u00d710\u2077",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Radius (m)": "6.563074\u00d710\u2076",
+      "Phi-Field Radius (m)": "6.555451\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Radius (m)": "4.375383\u00d710\u2076",
+      "Phi-Field Radius (m)": "4.371995\u00d710\u2076",
+      "% Difference": "0.0774%"
+    }
+  ],
+  "angular_momentum": [
+    {
+      "l value": "0",
+      "Classical Angular Momentum (J\u00b7s)": "0",
+      "Phi-Field Angular Momentum (J\u00b7s)": "0",
+      "% Difference": "-"
+    },
+    {
+      "l value": "1",
+      "Classical Angular Momentum (J\u00b7s)": "1.054572\u00d710\u207b\u00b3\u2074",
+      "Phi-Field Angular Momentum (J\u00b7s)": "1.055304\u00d710\u207b\u00b3\u2074",
+      "% Difference": "0.0694%"
+    },
+    {
+      "l value": "2",
+      "Classical Angular Momentum (J\u00b7s)": "2.109144\u00d710\u207b\u00b3\u2074",
+      "Phi-Field Angular Momentum (J\u00b7s)": "2.111934\u00d710\u207b\u00b3\u2074",
+      "% Difference": "0.1323%"
+    },
+    {
+      "l value": "3",
+      "Classical Angular Momentum (J\u00b7s)": "3.163715\u00d710\u207b\u00b3\u2074",
+      "Phi-Field Angular Momentum (J\u00b7s)": "3.169699\u00d710\u207b\u00b3\u2074",
+      "% Difference": "0.1891%"
+    },
+    {
+      "l value": "Constant",
+      "Classical Angular Momentum (J\u00b7s)": "Classical Value",
+      "Phi-Field Angular Momentum (J\u00b7s)": "Phi-Field Value",
+      "% Difference": "% Difference"
+    },
+    {
+      "l value": "----------",
+      "Classical Angular Momentum (J\u00b7s)": "-----------------",
+      "Phi-Field Angular Momentum (J\u00b7s)": "-----------------",
+      "% Difference": "--------------"
+    },
+    {
+      "l value": "Electron Spin (J\u00b7s)",
+      "Classical Angular Momentum (J\u00b7s)": "5.272859\u00d710\u207b\u00b3\u2075",
+      "Phi-Field Angular Momentum (J\u00b7s)": "5.273492\u00d710\u207b\u00b3\u2075",
+      "% Difference": "0.0120%"
+    },
+    {
+      "l value": "Magnetic Moment (J/T)",
+      "Classical Angular Momentum (J\u00b7s)": "9.274010\u00d710\u207b\u00b2\u2074",
+      "Phi-Field Angular Momentum (J\u00b7s)": "9.284781\u00d710\u207b\u00b2\u2074",
+      "% Difference": "0.1161%"
+    }
+  ],
+  "orbital_velocity": [
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "1",
+      "Classical Velocity (m/s)": "2.187691\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "2.182610\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "2",
+      "Classical Velocity (m/s)": "1.093846\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "1.092575\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "n": "3",
+      "Classical Velocity (m/s)": "7.292304\u00d710\u2075",
+      "Phi-Field Velocity (m/s)": "7.286658\u00d710\u2075",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "1",
+      "Classical Velocity (m/s)": "4.375383\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "4.365219\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "2",
+      "Classical Velocity (m/s)": "2.187691\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "2.185150\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "n": "3",
+      "Classical Velocity (m/s)": "1.458461\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "1.457332\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "1",
+      "Classical Velocity (m/s)": "6.563074\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "6.547829\u00d710\u2076",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "2",
+      "Classical Velocity (m/s)": "3.281537\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "3.277726\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "n": "3",
+      "Classical Velocity (m/s)": "2.187691\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "2.185997\u00d710\u2076",
+      "% Difference": "0.0774%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "1",
+      "Classical Velocity (m/s)": "1.312615\u00d710\u2077",
+      "Phi-Field Velocity (m/s)": "1.309566\u00d710\u2077",
+      "% Difference": "0.2323%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "2",
+      "Classical Velocity (m/s)": "6.563074\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "6.555451\u00d710\u2076",
+      "% Difference": "0.1161%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "n": "3",
+      "Classical Velocity (m/s)": "4.375383\u00d710\u2076",
+      "Phi-Field Velocity (m/s)": "4.371995\u00d710\u2076",
+      "% Difference": "0.0774%"
+    }
+  ],
+  "ionization_energy": [
+    {
+      "Element": "Hydrogen",
+      "Z": "1",
+      "Classical Ionization (J)": "2.179872\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Ionization (J)": "2.179872\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.0000%"
+    },
+    {
+      "Element": "Helium",
+      "Z": "2",
+      "Classical Ionization (J)": "8.719489\u00d710\u207b\u00b9\u2078",
+      "Phi-Field Ionization (J)": "8.763594\u00d710\u207b\u00b9\u2078",
+      "% Difference": "0.5058%"
+    },
+    {
+      "Element": "Lithium",
+      "Z": "3",
+      "Classical Ionization (J)": "1.961885\u00d710\u207b\u00b9\u2077",
+      "Phi-Field Ionization (J)": "1.977613\u00d710\u207b\u00b9\u2077",
+      "% Difference": "0.8017%"
+    },
+    {
+      "Element": "Carbon",
+      "Z": "6",
+      "Classical Ionization (J)": "7.847540\u00d710\u207b\u00b9\u2077",
+      "Phi-Field Ionization (J)": "7.950148\u00d710\u207b\u00b9\u2077",
+      "% Difference": "1.3075%"
+    }
+  ],
+  "universal_constants": [
+    {
+      "Constant": "Electron Spin (J\u00b7s)",
+      "Classical Value": "5.272859\u00d710\u207b\u00b3\u2075",
+      "Phi-Field Value": "5.273492\u00d710\u207b\u00b3\u2075",
+      "% Difference": "0.0120%"
+    },
+    {
+      "Constant": "Magnetic Moment (J/T)",
+      "Classical Value": "9.274010\u00d710\u207b\u00b2\u2074",
+      "Phi-Field Value": "9.284781\u00d710\u207b\u00b2\u2074",
+      "% Difference": "0.1161%"
+    }
+  ]
+}
