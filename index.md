@@ -361,3 +361,5 @@ Quantum systems modeled with these corrected phase equations will:
 - Open for **non-commercial academic and research use**.  
 - Commercial use, redistribution, or integration into proprietary models **requires written permission** from the author.  
 – For inquiries, use the contact form on the project page or submit a license request via the GitHub template.”
+
+[📙🧥](https://www.github.com/bikersam/phi-field_correction/THE_MANUAL_IN_A_TRENCH_COAT.md) 
