@@ -1,7 +1,7 @@
 # 📙 THE MANUAL IN A TRENCH COAT 🧥
 ---
 
-# A Discworld Tribute Tale 🐘🐘🐢^💿🐘🐘
+# A Discworld Tribute Tale 🐘🐘🐢💿🐘🐘
 ---
 
 ## 🌙 Chapter 1: 3 AM Revelations
