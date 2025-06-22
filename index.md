@@ -2,6 +2,10 @@
 
 ### Author: Samuel Edward Howells
 
+0(1)420(405)8∞
+
+n(1/±)(−0.1−1.0+1.1)=n=(−1.1+1.0+0.1)±n
+
 ### Date: May 5, 2025
 
 ### Status: Formal Submission Draft
