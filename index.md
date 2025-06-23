@@ -13,9 +13,13 @@ Prior Axis | 21cm Hydrogen (1.42Ghz) | Biological (0.42Ghz) | Harmonic 405 | Inf
 
 | ∞8∞ | 8∞8 |
 
-| Subtraction |‘n±(−0.1−1.0+1.1)=n=(−1.1+1.0+0.1)(1/±)n | Addition |
+| Subtraction |‘n±(−0.1−1.0+1.1)=n |
 
-| Divide | n(1/±)(11÷10−1.1)=n=(1.1×10−11)±n | Multiply |
+| n=(−1.1+1.0+0.1)(1/±)n | Addition |
+
+| Divide | n(1/±)(11÷10−1.1)=n |
+
+| n=(1.1×10−11)±n | Multiply |
 
 ### Date: May 5, 2025
 
