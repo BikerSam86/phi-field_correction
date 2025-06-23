@@ -5,12 +5,12 @@
 ∅→n↻φ±
 
 ∞0(1)420(405)8∞
- 
-'n±(−0.1−1.0+1.1)=n=(−1.1+1.0+0.1)(1/±)n
- 
-                   |
 
-n(1/±)(11÷10−1.1)=n=(1.1×10−11)±n
+21cm Hydrogen (1.42Ghz) Biological (0.42Ghz) Harmonic 405 Infinite ∞8∞ (lobe driver compressor) Axis
+
+‘n±(−0.1−1.0+1.1)=n=(−1.1+1.0+0.1)(1/±)n Subtraction|Addition nRotor
+
+n(1/±)(11÷10−1.1)=n=(1.1×10−11)±n Divide|Multiply nRotor
 
 ### Date: May 5, 2025
 
