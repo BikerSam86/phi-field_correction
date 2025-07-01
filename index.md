@@ -57,7 +57,7 @@ ________________________________________
 
 ## 2. Axiomatic Foundations
 
-The Phi-Field framework is defined by three core axioms:
+The Phi-Field framework is defined by four core axioms:
 
 ### 1.	Zero-Diameter Entities in Their Own Frame
 
@@ -78,6 +78,10 @@ o	Modes 2–4: Spatial X, Y, Z axes
 o	Mode 5: Time (Phase Evolution)
 
 o	Higher modes: Energetically suppressed
+
+### 4.	Universal Expansion = Entropic Expansion (The Hidden Unity)
+
+What we call "entropic expansion" (Second Law of Thermodynamics) and "universal expansion" (cosmological) share identical rates because they're the same process viewed through different lenses.
 
 ________________________________________
 
