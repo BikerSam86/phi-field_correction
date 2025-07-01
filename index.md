@@ -21,9 +21,9 @@ Prior Axis | 21cm Hydrogen (1.42Ghz) | Biological (0.42Ghz) | Harmonic 405 | Inf
 
 | n=(1.1×10−11)±n | Multiply |
 
-### Date: May 5, 2025
+### Date: 5th May, 2025
 
-### Updated: June 23, 2025
+### Updated: 1st July 2025
 
 ### Status: Formal Submission Draft
 
