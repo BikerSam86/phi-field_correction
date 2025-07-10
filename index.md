@@ -13,6 +13,8 @@ Prior Axis | 21cm Hydrogen (1.42Ghz) | Biological (0.42Ghz) | Harmonic 405 | Inf
 
 | ∞8∞ | 8∞8 |
 
+168 / (3²) ⟩ (2³) ⟨ 360 \ 7
+
 | Subtraction |‘n±(−0.1−1.0+1.1)=n |
 
 | n=(−1.1+1.0+0.1)(1/±)n | Addition |
@@ -23,7 +25,7 @@ Prior Axis | 21cm Hydrogen (1.42Ghz) | Biological (0.42Ghz) | Harmonic 405 | Inf
 
 ### Date: 5th May, 2025
 
-### Updated: 1st July 2025
+### Updated: 10th July 2025
 
 ### Status: Formal Submission Draft
 
