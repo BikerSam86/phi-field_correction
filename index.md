@@ -9,7 +9,9 @@
 Prior Axis | 21cm Hydrogen (1.42Ghz) | Biological (0.42Ghz) | Harmonic 405 | Infinite ∞8∞ (lobe driver compressor) | Axis Continued
 
 ((Quantum|Cognition_Min|(Rotor+(Bistable²)))² - (Quantum|Cognition_Min|(Rotor+(Bistable²)))
+
 =
+
 ((7|(3+(2²)))² - (7|(3+(2²)))
 
 | nRotor |
