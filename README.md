@@ -15,16 +15,16 @@ Decoherence, instability, and apparent quantum noise are not fundamental limitat
 
   Breakdown:
   - 1 proton: Core mass/stability (8 bistable core)
-  - 
-  - 
+    
+    
   - 1 electron: Orbital dynamics (9 rotor expansion)
-  - 
-  - 
+    
+    
   - 1 axis: Central coherence point (8)
-  - 
-  - 
+    
+    
   - X¹Y²Z³: 1+2+3 = 6 spatial positions
-  - 
+    
   - 1 spin: The "bastard|there's_always_one" - temporal evolution dissonance
 
 
@@ -35,9 +35,9 @@ Decoherence, instability, and apparent quantum noise are not fundamental limitat
   But reality needs the 7th - the spin direction (intent) - which creates:
   
   - Temporal evolution
-  - 
+    
   - Phase-slip preventing lock-up
-  - 
+    
   - The "one that doesn't fit" ensuring system evolution
 
 
