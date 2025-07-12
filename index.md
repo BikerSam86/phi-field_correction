@@ -2,6 +2,8 @@
 
 ### Author: Samuel Edward Howells
 
+[E = m × c²] × sin(G·t + φ) × e^(−entropy·t)
+
 ∅→n↻φ±
 
 |∞|1|420|405|8|∞|
