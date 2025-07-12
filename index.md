@@ -53,7 +53,7 @@ Plus the "bastard|there's_always_one" (spin): +1 = 7
 
 ### Date: 5th May, 2025
 
-### Updated: 10th July 2025
+### Updated: 12th July 2025
 
 ### Status: Formal Submission Draft
 
