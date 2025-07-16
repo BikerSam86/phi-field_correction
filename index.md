@@ -2,7 +2,7 @@
 
 ### Author: Samuel Edward Howells
 
-[E =[120°]= m × c²] × sin(G·t + φ) × e^(−entropy·t)
+[E =[120°ɣ]= m × c²] × sin(G·t + φ) × e^(−entropy·t)
 
 ∅→n↻φ±
 
